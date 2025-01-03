@@ -3,10 +3,10 @@
 ## 👩🏻‍💻 A Little Bit About Me and My Interests
 ```yaml
 Name: Sarah AlTamimi
-located_in: Saudi Arabia
-education: I'm currently Studying Information Technology with a specialization in Cybersecurity
+Located_in: Saudi Arabia
+Education: I'm currently Studying Information Technology with a specialization in Cybersecurity
 Unvirsty: King Saud Unvirsty
-fields_of_interests:
+Fields_of_interests:
   [
     "Data Analyst",
     "UI/UX",
