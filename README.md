@@ -13,7 +13,7 @@
 <img src="https://cdn.prod.website-files.com/652573f752f7acbb92e633e0/65577893ab916362d298f7e9_figma.png" alt="figma" width="45" height="45"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-tableau-icon-download-in-svg-png-gif-file-formats--software-logo-freebies-pack-logos-icons-4489898.png" alt="tableau" width="45" height="45"/>
 <img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" alt="html" width="45" height="45"/>
-<img src="https://w7.pngwing.com/pngs/224/77/png-transparent-website-web-internet-css-style-css3-technology-social-media-logos-i-flat-colorful-icon.png" alt="css" width="45" height="45"/>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" alt="css" width="45" height="45"/>
 
 
 </p>
