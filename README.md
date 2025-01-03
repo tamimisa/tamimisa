@@ -16,4 +16,5 @@
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" alt="css" width="45" height="45"/>
 </p>
 
+<h2> 📈 &nbsp;Your GitHub History </h2>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamimisa&hide_progress=true)
