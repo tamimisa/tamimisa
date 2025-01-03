@@ -1,5 +1,5 @@
 ## Hi there 👋
-</br></br>
+</br>
 <!--
 - 🔭 - 🌱
 -->
@@ -12,8 +12,8 @@
 <img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" alt="html" width="45" height="45"/>
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" alt="css" width="45" height="45"/>
 </p>
-</br></br>
+</br>
 <h2> 📈 &nbsp;My GitHub History ! </h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamimisa&hide_progress=true)
-![Snake animation](https://github.com/tamimisa/tamimisa/blob/output/github-contribution-grid-snake.svg)
+
