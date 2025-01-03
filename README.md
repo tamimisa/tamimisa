@@ -1,10 +1,7 @@
 ## Hi there 👋
-
+</br></br>
 <!--
-**tamimisa/tamimisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 - 🌱
 -->
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
@@ -15,7 +12,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" alt="html" width="45" height="45"/>
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" alt="css" width="45" height="45"/>
 </p>
-
+</br></br>
 <h2> 📈 &nbsp;My GitHub History ! </h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamimisa&hide_progress=true)
