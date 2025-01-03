@@ -1,4 +1,6 @@
-## Hi there 👋
+## 💫 Hi, I'm Sarah !
+<p>👩🏻‍💻 Cybersecurity professional with a passion for sharing my journey and insights in the ever-evolving tech world.</p>
+<p>💭 I'm currently Studying Information Technology with a specialization in Cybersecurity at King Saud University.</p>
 </br>
 <!--
 - 🔭 - 🌱
