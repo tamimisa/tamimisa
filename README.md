@@ -25,7 +25,11 @@ fields_of_interests:
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-tableau-icon-download-in-svg-png-gif-file-formats--software-logo-freebies-pack-logos-icons-4489898.png" alt="tableau" width="45" height="45"/>
 <img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" alt="html" width="45" height="45"/>
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" alt="css" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/2560px-Jira_Logo.svg.png" alt="Jira" width="45" height="45"/>
+
+
 </p>
+
 </br>
 <h2> 📈 &nbsp;My GitHub History ! </h2>
 
