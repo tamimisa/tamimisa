@@ -1,6 +1,16 @@
-## 💫 Hi, I'm Sarah !
-<p>👩🏻‍💻 Cybersecurity professional with a passion for sharing my journey and insights in the ever-evolving tech world.</p>
-<p>💭 I'm currently Studying Information Technology with a specialization in Cybersecurity at King Saud University.</p>
+## 👩🏻‍💻 A Little Bit About Me and My Interests
+```yaml
+Name: Sarah AlTamimi
+located_in: Saudi Arabia
+education: I'm currently Studying Information Technology with a specialization in Cybersecurity
+Unvirsty: King Saud Unvirsty
+fields_of_interests:
+  [
+    "Data Analyst",
+    "UI/UX",
+    "Web Development"
+  ]
+```
 </br>
 <!--
 - 🔭 - 🌱
