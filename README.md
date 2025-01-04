@@ -9,6 +9,7 @@ Unvirsty: King Saud Unvirsty
 Fields_of_interests:
   [
     "Data Analyst",
+    "Cybersecurity",
     "UI/UX",
     "Web Development"
   ]
