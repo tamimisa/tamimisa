@@ -30,6 +30,8 @@ Fields_of_interests:
 <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="PowerBI" width="55" height="45"/>
 <img src="https://www.r-project.org/Rlogo.png" alt="Rstudio" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/516px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Jira" width="45" height="45"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAMSSnWBIbcdN-rxZSQp19NXDLTh9UJa8xHWBrpFVhHmoPYvapFtYU9tqOtSJnWx_of9g&usqp=CAU" alt="MySQL" width="45" height="45"/>
+  
 </p>
 
 </br>
